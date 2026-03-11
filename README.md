@@ -91,6 +91,7 @@ MedLabPro is implemented using a **Decoupled Clean Architecture** with a **Modul
 - [NestJS 11 (Modular Backend)](https://nestjs.com/)
 - [Socket.io Server (Gateways)](https://socket.io/)
 - [In-Memory Persistence (JS Map based for demo speed)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [Supabase](https://supabase.com/)
 
 ### Communication
 - **RESTful API** for primary CRUD operations.
